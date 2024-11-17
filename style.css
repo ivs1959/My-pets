@@ -1,0 +1,13 @@
+body {
+    font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#header {
+    background-image: url('imgs/bg_header.jpg');
+}
+
+a:-webkit-any-link { 
+    text-decoration: none !important; 
+}
